@@ -1,0 +1,16 @@
+File Handling - file handling means, storing data permanently at the Secondary Storage media like HDD.
+
+<fstream.h>
+
+1. ifstream = file read karne ke liye
+2. ofstream - file write karne ke liye
+3. fstream - read + write karne ke liye.
+
+Modes : 
+ios::in - Read Mode
+ios::out - Write Mode 
+ios::app - Append Mode
+ios::binary - Binary Files
+ios::trunc - Old Data Delete
+
+
